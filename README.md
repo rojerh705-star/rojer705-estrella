@@ -22,7 +22,7 @@ Apasionado por la tecnología y el análisis de datos. Transformo información e
 - 📊 **Sistema de Inventario** — Aplicación completa con base de datos
 
 ## 📫 Conéctate conmigo
-- 📧 Correo: tu-correo@email.com
+- 📧 Correo: rojerh705@gmail.com
 - 📍 Cartagena, Colombia
 
 ---
